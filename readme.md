@@ -6,7 +6,7 @@ This project demonstrates how to create one structured dataset from several doin
 
 #### Project Requirements:
 
-This project requires the following Python libraries to be installed in order to work.
+This project requires the following Python libraries to be installed in order to work:
 
 * Numpy
 * Pandas (along with scatter_matrix package)
